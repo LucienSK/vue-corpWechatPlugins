@@ -1,0 +1,27 @@
+{
+  "name": "vue-corpwechat",
+  "version": "1.0.0",
+  "description": "vue corpwechat jssdk api plugin",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "build": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucienSK/vue-corpWechatPlugins.git"
+  },
+  "keywords": [
+    "vue",
+    "corpwechat",
+    "wechat",
+    "jssdk"
+  ],
+  "author": "603546459@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucienSK/vue-corpWechatPlugins/issues"
+  },
+  "homepage": "https://github.com/LucienSK/vue-corpWechatPlugins/#readme",
+  "_from": "vue-corpwechat@1.0.0"
+}
