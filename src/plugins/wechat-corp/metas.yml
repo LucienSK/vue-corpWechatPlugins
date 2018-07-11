@@ -1,0 +1,6 @@
+changes:
+  v1.0.0:
+    en:
+      - '[feature] upgrade to 1.2.0 #2396'
+    zh-CN:
+      - '[feature] 支持通过 Vue.corpwechat 调用 #2396'
